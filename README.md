@@ -15,7 +15,7 @@ WeUI is an WeChat-like UI framework officially designed by the WeChat Design Tea
 - WeUI documentation [Wiki](https://github.com/Tencent/weui/wiki)
 - WeUI design reference [weui-design](https://github.com/weui/weui-design)
 
-## Mobile demo
+## PC Install
 
 ![https://weui.io](https://cloud.githubusercontent.com/assets/4652816/15662614/178efd46-2725-11e6-8952-09d7836e968d.png)
 
